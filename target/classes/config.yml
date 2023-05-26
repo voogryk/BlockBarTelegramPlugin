@@ -1,0 +1,6 @@
+bot:
+  token: "token here"
+  channels:
+    - "channel ids here"
+messages:
+  bloodnight: "Blood Night Start!"

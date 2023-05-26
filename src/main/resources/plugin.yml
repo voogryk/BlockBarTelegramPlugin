@@ -1,0 +1,4 @@
+name: BlockBarTelegramPlugin
+version: '${project.version}'
+main: org.blockbar.blockbartelegramplugin.BlockBarTelegramPlugin
+api-version: 1.19
