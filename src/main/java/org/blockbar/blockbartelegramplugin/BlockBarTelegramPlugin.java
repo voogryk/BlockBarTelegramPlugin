@@ -1,7 +1,6 @@
 package org.blockbar.blockbartelegramplugin;
 
 import org.blockbar.blockbartelegramplugin.listeners.BloodNightEventListener;
-import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class BlockBarTelegramPlugin extends JavaPlugin {
